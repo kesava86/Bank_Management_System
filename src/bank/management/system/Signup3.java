@@ -134,7 +134,7 @@ public class Signup3 extends  JFrame implements ActionListener {
         c4.setBounds(350,550,200,30);
         add(c4);
 
-        c5 = new JCheckBox("Mobile Banking");
+        c5 = new JCheckBox("Cheque Book");
         c5.setBackground(new Color(215,252,252));
         c5.setFont(new Font("Raleway",Font.BOLD,16));
         c5.setBounds(100,600,200,30);
